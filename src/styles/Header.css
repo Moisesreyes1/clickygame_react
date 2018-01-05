@@ -1,0 +1,20 @@
+.header {
+    background: #f9b713;
+    height: 200px;
+}
+
+.header h1 {
+    margin: 0;
+    padding-top: 75px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+
+.header h5 {
+    margin: 0;
+    padding-top: 75px;
+    text-align: center;
+    color: black;
+    /* font-size: 3rem; */
+}
